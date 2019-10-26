@@ -1,7 +1,7 @@
 ## Welcome  my web house!        罗守志
-I was born in 18/10/1977 on the Earth!
-我小时候唯一的照片
-You can use the [editor on GitHub](https://github.com/deerowl/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+  I was born in 18/10/1977 on the Earth!
+  我小时候唯一的照片
+  You can use the [editor on GitHub](https://github.com/deerowl/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
