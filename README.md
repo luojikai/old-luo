@@ -3,7 +3,9 @@
  
  *  我小时候唯一的照片  
  ![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)  
- ![RUNOOB 图标](./video/20190209002.jpg)
+ ![RUNOOB 图标](./video/20190209002.jpg)  
+  ![RUNOOB 图标](./video/wangfei.jpg)
+
  You can use the [editor on GitHub](https://github.com/deerowl/test/edit/master/README.md) to maintain and preview the content for        your   website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
