@@ -1,7 +1,7 @@
 ## Welcome  my web house! &emsp;&emsp;罗守志
 # I was born in 18/10/1977 on the Earth!
 *  1984至1990  
-哈尔滨解放小学<./jiefang.md>  
+哈尔滨解放小学<https://deerowl.github.io/old-luo/jiefang.md>  
 *  1990年至1993年  
 哈尔滨125中学
 哈尔滨70中学
