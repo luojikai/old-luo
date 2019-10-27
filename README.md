@@ -13,10 +13,8 @@
 黑龙江大学  
 *  2001年至2006年  
 齐齐哈尔海关  
-*  2006年至今  
-
- *  我小时候唯一的照片  
- ![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)  
+*  2006年至今    
+<img src="./video/20190209002.jpg" alt="together">  
  ![RUNOOB 图标](./video/20190209002.jpg)  
   ![RUNOOB 图标](./video/wangfei.jpg)  
   <video id="video" controls="" preload="none" poster="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.jpg">
