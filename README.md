@@ -1,6 +1,20 @@
 ## Welcome  my web house! &emsp;&emsp;罗守志
- *  I was born in 18/10/1977 on the Earth!
- 
+# I was born in 18/10/1977 on the Earth!
+*  1984至1990  
+哈尔滨解放小学  
+*  1990年至1993年  
+哈尔滨125中学
+哈尔滨70中学
+哈尔滨7中学
+*  1993年至1996年  
+哈尔滨13中学  
+*  1996年1997年
+*  1997年至2001年  
+黑龙江大学  
+*  2001年至2006年  
+齐齐哈尔海关  
+*  2006年至今  
+
  *  我小时候唯一的照片  
  ![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)  
  ![RUNOOB 图标](./video/20190209002.jpg)  
