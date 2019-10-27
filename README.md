@@ -4,23 +4,8 @@
  *  我小时候唯一的照片  
  ![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)  
  ![RUNOOB 图标](./video/20190209002.jpg)  
-  ![RUNOOB 图标](./video/wangfei.jpg)  
-  width="720" height="405" src="./video/20190209001" allowfullscreen="">   
-   height="450" width="800" src="http://player.youku.com/embed/XMzMxMjE0MjY4NA==" allowfullscreen="">
-    <iframe 
-    width="800" 
-    height="450" 
-    src="https://v.miaopai.com/iframe?scid=SvyHaHOczsp7B6ftW86oqMMz62-h5ai6~Fwp8A__"
-    frameborder="0" 
-    allowfullscreen>
-    </iframe>
-    
-————————————————
-  
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Ilg3gGewQ5U" frameborder="0" allowfullscreen></iframe>
-
-width="400" height="200" src="https://www.youtube.com/embed/Ilg3gGewQ5U" allowfullscreen="">
-————————————————
+  ![RUNOOB 图标](./video/wangfei.jpg) 
+ 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ilg3gGewQ5U" frameborder="0" allowfullscreen></iframe>
 
 width="400" height="200" src="https://www.youtube.com/embed/Ilg3gGewQ5U" allowfullscreen="">
