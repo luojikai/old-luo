@@ -1,6 +1,6 @@
 # Welcome  my web house! &emsp;&emsp;罗守志 
 
-## 母亲 何亚珍 医生<a href="https://deerowl.github.io/old-luo/jibingzhenzhi.html">（一些疾病的诊治和药剂）</a>
+## 母亲 何亚珍 医生<a href="https://deerowl.github.io/old-luo/jibing.html">（一些疾病的诊治和药剂）</a>
 ## 父亲 罗继凯 老师 (现年77）
 ## I was born in 18/10/1977 on the Earth!
 *  1984至1990  
