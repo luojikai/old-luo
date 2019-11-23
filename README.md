@@ -5,6 +5,7 @@
 ## I was born in 18/10/1977 on the Earth!
 *  1984至1990  
 <a href="https://deerowl.github.io/old-luo/jiefang.html">哈尔滨解放小学</a>
+<a href="https://deerowl.github.io/old-luo/journal.html">20191123</a>
 *  1990年至1993年  
 哈尔滨125中学
 哈尔滨70中学
