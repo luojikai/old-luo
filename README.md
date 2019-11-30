@@ -1,5 +1,7 @@
 # Welcome  my web house! &emsp;&emsp;罗守志 
-
+<object height="50" width="100" data="./video/夏鸣 - 享受寂寞.mp3"></object>
+<p>如果你无法听到该音频，那么可能你的电脑或浏览器不支持该文件格式。</p>
+<p>或者你没有打开扬声器。</p>
 ## 母亲 何亚珍 医生<a href="https://deerowl.github.io/old-luo/jibing.html">（一些疾病的诊治和药剂）</a>
 ## 父亲 罗继凯 老师 (现年77）
 ## I was born in 18/10/1977 on the Earth!
