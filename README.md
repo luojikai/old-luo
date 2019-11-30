@@ -3,7 +3,8 @@
 <p>如果你无法听到该音频，那么可能你的电脑或浏览器不支持该文件格式。</p>
 <p>或者你没有打开扬声器。</p>
 ## 母亲 何亚珍 医生<a href="https://deerowl.github.io/old-luo/jibing.html">（一些疾病的诊治和药剂）</a>
-## 父亲 罗继凯 老师 (现年77）
+## 父亲 罗继凯 老师 (现年77）<a href="./father.html">一些近况</a>
+
 ## I was born in 18/10/1977 on the Earth!
 *  1984至1990  
 <a href="https://deerowl.github.io/old-luo/jiefang.html" width="300px">哈尔滨解放小学</a>
