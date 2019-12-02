@@ -14,7 +14,7 @@
 哈尔滨70中学
 哈尔滨7中学
 *  1993年至1996年  
-<a href="https://deerowl.github.io/old-luo/13.html" width="300px">哈尔滨13中学</a>
+<a href="https://deerowl.github.io/old-luo/htmls/13.html" width="300px">哈尔滨13中学</a>
 
 *  1996年1997年
 *  1997年至2001年  
