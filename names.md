@@ -42,11 +42,8 @@
     </tr>
     <tr>
       <th scope="row">5</th>
-      <td>关哲</td>
-	  <audio controls>
-      <source src="./video/lily.mp3" type="audio/ogg">
-      <source src="./video/lily.mp3" type="audio/mpeg">
-       您的浏览器不支持 audio 元素。
+      <td><a href="./htmls/guanzhe.html">关哲</a></td>
+	  
       </audio>
       <td>13*********</td>
       <td>暂无</td>
