@@ -2,6 +2,7 @@
 <object height="50" width="100" data="./video/夏鸣 - 享受寂寞.mp3"></object>
 ## 母亲 何亚珍 医生<a href="https://deerowl.github.io/old-luo/htmls/jibing.html">（一些疾病的诊治和药剂）</a>
 ## 父亲 罗继凯 老师 (现年77）<a href="./htmls/journal.html">一些近况</a>
+<br> <a href="luojikai.github.com/laoluo">父亲走了，呜呜...</a>
 
 ## I was born in 18/10/1977 on the Earth!
 *  1984至1990  
@@ -19,6 +20,5 @@
 
 <a href="https://deerowl.github.io/old-luo/htmls/qiqihaer.html" width="300px">齐齐哈尔海关</a> 
 *  2006年至今    
-
 
 
